@@ -1,6 +1,9 @@
 ## Recommendation systems
 
-[Python, collections, numpy, pandas, scipy]                                                                                                
+## Introduction
+
+[Python, collections, numpy, pandas, scipy]                                                                                               
+
 •	Implemented a content-based recommendation algorithm.
 
 •	Used the list of genres for a movie as the content.
